@@ -1,3 +1,3 @@
-# 1: Preface
+# 1: Chapter One
 
-This is where you write your actual preface.
+This is where you write your actual first chapter.

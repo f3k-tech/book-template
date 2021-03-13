@@ -1,4 +1,4 @@
-# 2: Introduction
+# 1: Chapter One
 
 ## Goals
 

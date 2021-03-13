@@ -1,3 +1,3 @@
-# 2: Introduction
+# 2: Chapter Two
 
-This is where you write your actual introduction.
+This is where you write your actual second chapter.
